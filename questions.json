@@ -2,4 +2,14 @@
   "tags": ["rotation", "rotation1", "rotation2"],
   "question": "What is a Torque?",
   "answer": "Torque is ..."
+},
+{
+  "tags": ["bones"],
+  "question": "What is the patella?",
+  "answer": "The patella is a knee bone."
+},
+{
+  "tags": ["muscles"],
+  "question": "What is the sternocleidomastoid?",
+  "answer": "The sternocleidomastoid is a muscle in connecting the neck and jaw."
 }
